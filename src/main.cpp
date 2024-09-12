@@ -7,9 +7,9 @@ using namespace std;
 
 int main()
 {
-    string inputFile = "D:\\File Compressor\\res\\input.txt";
-    string compressedFile = "D:\\File Compressor\\res\\compressed.txt";
-    string decompressedFile = "D:\\File Compressor\\res\\decompressed.txt";
+    string inputFile = "D:\\DeComp-main\\res\\input.txt";
+    string compressedFile = "D:\\DeComp-main\\res\\compressed.txt";
+    string decompressedFile = "D:\\DeComp-main\\res\\decompressed.txt";
 
     compressFile(inputFile, compressedFile);
 
